@@ -2,7 +2,7 @@
 
 Smart Bazaar is a community-focused web application built to help local vendors and small shopkeepers gain visibility, manage their shops, and connect with nearby customers using modern web technologies.
 
-## 🌟 Features
+##  Features
 
 - Vendor registration and login (Firebase Authentication)
 - Vendor shop setup and inventory listing (Firestore)
@@ -10,7 +10,7 @@ Smart Bazaar is a community-focused web application built to help local vendors 
 - Customer view to discover vendors near them
 - Simple UI for both vendors and customers
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - React with TypeScript
 - Firebase (Authentication, Firestore)
@@ -18,7 +18,7 @@ Smart Bazaar is a community-focused web application built to help local vendors 
 - Tailwind CSS for styling
 - Vite for development and building
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -79,7 +79,7 @@ const { isLoaded } = useJsApiLoader({
 npm run dev
 ```
 
-## 📱 Application Structure
+##  Application Structure
 
 - `/src/components` - Reusable UI components
 - `/src/contexts` - React context providers
@@ -87,11 +87,8 @@ npm run dev
 - `/src/types.ts` - TypeScript interfaces
 - `/src/firebase.ts` - Firebase configuration
 
-## 📸 Screenshots
 
-> Add screenshots of app screens once implemented
-
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - Digital payments integration
 - Order management system
@@ -100,10 +97,10 @@ npm run dev
 - Multi-language support
 - Mobile app using React Native
 
-## 🧑‍💻 Author
+##  Author
 
-- Your Name - [@yourGitHub](https://github.com/yourGitHub)
+https://github.com/Mathiazhagan07
 
-## 🔗 License
+##  License
 
 This project is licensed under the MIT License.
